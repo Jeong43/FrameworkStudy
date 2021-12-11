@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.test.spr.Record"/>
+<fullyQualifiedTypeName name="com.test.spr.RecordView"/>
+<fullyQualifiedTypeName name="com.test.spr.RecordViewImpl"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.test.spr.MemberList"/>
+<fullyQualifiedTypeName name="java.lang.reflect.InvocationHandler"/>
+<fullyQualifiedTypeName name="java.beans.PropertyChangeListenerProxy"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Proxy"/>
+<fullyQualifiedTypeName name="com.test.spr.CalculatorProxy"/>
+<fullyQualifiedTypeName name="org.aopalliance.intercept.MethodInterceptor"/>
+<fullyQualifiedTypeName name="org.springframework.util.StopWatch"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="org.springframework.aop.framework.ProxyFactoryBean"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="com.test.spr.Calculator"/>
+<fullyQualifiedTypeName name="com.test.spr.CalculatorImpl"/>
+<fullyQualifiedTypeName name="org.springframework.aop.MethodBeforeAdvice"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="org.springframework.aop.ThrowsAdvice"/>
+<fullyQualifiedTypeName name="java.lang.Throwable"/>
+<fullyQualifiedTypeName name="org.apache.commons.logging.Log"/>
+<fullyQualifiedTypeName name="org.apache.commons.logging.LogFactory"/>
+</qualifiedTypeNameHistroy>

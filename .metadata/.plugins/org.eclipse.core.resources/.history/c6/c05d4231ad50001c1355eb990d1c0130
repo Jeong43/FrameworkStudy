@@ -1,0 +1,11 @@
+/*===========================
+   CalculatorAspect.java
+   - 보조 업무 수행 클래스
+===========================*/
+
+package com.test.spr;
+
+public class CalculatorAspect
+{
+
+}
